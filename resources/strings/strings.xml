@@ -1,0 +1,35 @@
+<strings>
+    <string id="AppName">FirstWatchFace</string>
+    <string id="BackgroundThemeTitle">Background Theme</string>
+    <string id="SecondDotColorTitle">Second Dot Color</string>
+    <string id="MinuteHandColorTitle">Minute Hand Color</string>
+    <string id="HourHandColorTitle">Hour Hand Color</string>
+    <string id="NumeralColorTitle">Numerals Color</string>
+    <string id="DateColorTitle">Date Color</string>
+	<string id="ThemeBlack">Black</string>
+    <string id="ThemeYellow">Yellow</string>
+    <string id="ThemeBlue">Blue</string>
+    <string id="ThemeRed">Red</string>
+    
+    <string id="ColorBlack">Black</string>
+    <string id="ColorDarkGray">Dark Gray</string>
+    <string id="ColorLightGray">Light Gray</string>
+    <string id="ColorWhite">White</string>
+    <string id="ColorBlue">Blue</string>
+    <string id="ColorLightBlue">Light Blue</string>
+    <string id="ColorMellowBlue">Mellow Blue</string>
+    <string id="ColorRed">Red</string>
+    <string id="ColorDirtyRed">Dirty Red</string>
+    <string id="ColorMellowRed">Mellow Red</string>
+    <string id="ColorPink">Pink</string>
+    <string id="ColorMellowPink">Mellow Pink</string>
+    <string id="ColorYellow">Yellow</string>
+    <string id="ColorLightYellow">Light Yellow</string>
+    <string id="ColorGreen">Green</string>
+    <string id="ColorDarkGreen">Dark Green</string>
+    <string id="ColorMintGreen">Mint Green</string>
+    <string id="ColorLime">Lime</string>
+    <string id="ColorDarkOrange">Dark Orange</string>
+    <string id="ColorOrange">Orange</string>
+    <string id="ColorPurple">Purple</string>
+</strings>

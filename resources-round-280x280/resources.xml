@@ -1,0 +1,32 @@
+<resources>
+	<drawables>
+	<bitmap id="Background" x="0" y="0" filename="images/a12clock.bmp" dithering="none" >
+       <palette disableTransparency="true">
+           <color>000000</color>
+           <color>555555</color>
+       </palette>
+    </bitmap>
+    <bitmap id="BackgroundYellow" x="0" y="0" filename="images/a12clock.bmp" dithering="none" >
+       <palette disableTransparency="true">
+           <color>aaaa55</color>
+           <color>aa5500</color>
+       </palette>
+    </bitmap>
+    <bitmap id="BackgroundBlue" x="0" y="0" filename="images/a12clock.bmp" dithering="none" >
+       <palette disableTransparency="true">
+           <color>5500aa</color>
+           <color>aaaaff</color>
+       </palette>
+    </bitmap>
+    <bitmap id="BackgroundRed" x="0" y="0" filename="images/a12clock.bmp" dithering="none" >
+       <palette disableTransparency="true">
+           <color>ffaaaa</color>
+           <color>aa0000</color>
+       </palette>
+    </bitmap>
+    </drawables>
+    <fonts>
+    	<font id="Gsf" filename="fonts/openSansLightSmall.fnt" antialias="true"/>
+    	<font id="os108" filename="fonts/openSans108.fnt" antialias="true" filter="0123456789"/>
+    </fonts>
+</resources> 

@@ -1,0 +1,6 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <drawable-list id="shapes" background="Graphics.COLOR_TRANSPARENT">
+		 <shape type="polygon" points="[[0%,50%],[7%,25%],[25%,7%],[50%,0%],[100%,50%],[50%,100%]]"  color="Graphics.COLOR_GREEN"/>
+	</drawable-list>
+</drawables>
